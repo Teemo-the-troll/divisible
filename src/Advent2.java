@@ -23,7 +23,7 @@ public class Advent2 {
                 fuel += getFuel(fuel);
             }
             finalAmount += fuel;
-            fuel = 0
+            fuel = 0;
 
         }
         System.out.println(finalAmount);
