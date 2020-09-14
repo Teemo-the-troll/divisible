@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88309318-9518-4e56-b3c8-348ffd8fd690" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cisla.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cisla.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/divisible/Advent2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/divisible/Advent2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/divisible/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/divisible/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Advent2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Advent2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Advent2">
     <configuration name="Advent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Advent" />
       <module name="divisible" />
@@ -88,10 +91,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Advent2" />
         <item itemvalue="Application.Advent" />
         <item itemvalue="Application.Prvocisla" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -111,6 +114,7 @@
       <workItem from="1599546229369" duration="383000" />
       <workItem from="1599744464448" duration="563000" />
       <workItem from="1599997504900" duration="4017000" />
+      <workItem from="1600069040109" duration="4545000" />
     </task>
     <servers />
   </component>
@@ -129,16 +133,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Prvocisla.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

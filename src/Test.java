@@ -1,13 +1,13 @@
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class Test {
-    public static Integer max(ArrayList x){
-       return (Integer) Collections.max(x);
+    public static Integer max(ArrayList x) {
+        return (Integer) Collections.max(x);
     }
-    public static Integer min(ArrayList x){
+
+    public static Integer min(ArrayList x) {
         return (Integer) Collections.min(x);
     }
 
@@ -37,13 +37,13 @@ public class Test {
         }
         int sum = 0;
         System.out.print("inputed numbers are: ");
-        for (int number: nums) {
+        for (int number : nums) {
             sum = sum + number;
             System.out.print(number + ", ");
         }
-        System.out.println("");
+        System.out.println();
         System.out.println("sum of the numbers is: " + sum);
-        System.out.println("approximate average of the numbers is: " + (sum/nums.size()));
+        System.out.println("approximate average of the numbers is: " + (sum / nums.size()));
         System.out.println("highest number is: " + max(nums));
         System.out.println("lowest number is: " + min(nums));
     }
